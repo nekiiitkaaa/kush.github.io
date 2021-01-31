@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+/* Background image */
+
+body {
+  background-image: url("https://images8.alphacoders.com/441/thumb-1920-441994.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Headings */
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+/* Paragraph */
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+a.btn, button {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
